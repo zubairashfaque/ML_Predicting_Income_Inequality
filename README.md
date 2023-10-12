@@ -473,7 +473,7 @@ By examining a SHAP summary bar plot, you can quickly identify the most importan
 We have developed an interactive web application for predicting income inequality. This app empowers users to work with the income inequality dataset, explore its contents, conduct exploratory data analysis (EDA) on both numerical and categorical variables with respect to the target value, identify missing values, gain insights into the dataset's story, and make predictions. 
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_1.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_1.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 
 ### Dataset Explore
@@ -482,45 +482,45 @@ In this section of the app, you can easily load the income inequality dataset an
 To access and use the [Income Inequality Prediction App](https://rtadeployment-za.streamlit.app/), please visit [here](https://rtadeployment-za.streamlit.app/).
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_2.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_2.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 
 ### EDA (Exploratory Data Analysis)
 The EDA feature enables you to delve deeper into the dataset. You can perform exploratory data analysis on both numerical and categorical variables, gaining valuable insights into how these variables relate to the target value. This section also helps you identify missing values, providing a comprehensive view of the data's quality.
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_3.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_3.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_4.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_4.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_5.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_5.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 
 ### Insights
 The Insights page is designed to provide a richer understanding of the dataset and its underlying story. It uncovers patterns, trends, and relationships within the data, offering a more nuanced perspective on income inequality.
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_6.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_6.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_7.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_7.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_8.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_8.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_9.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_9.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_10.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_10.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 
 
@@ -530,13 +530,13 @@ The Prediction section is where the app truly shines. Users can input specific p
 To access and utilize the Income Inequality Prediction App, please visit [here](https://rtadeployment-za.streamlit.app/).
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_11.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_11.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_12.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_12.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/App_13.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_13.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
 </p>
 
 This user-friendly application empowers users to explore, analyze, gain insights, and make predictions regarding income inequality, leveraging the full potential of the dataset.
