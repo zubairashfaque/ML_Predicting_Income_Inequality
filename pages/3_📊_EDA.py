@@ -6,8 +6,14 @@ import io
 import pandas as pd
 import streamlit as st
 
+# Define the path to the CSV file
 path_csv = "data/raw/data.csv"
+
+# Read the CSV file into a DataFrame
 df = pd.read_csv(path_csv)
+
+# Remove the "ID" column
+df = df.drop("ID", axis=1)
 
 df = df.head(1000)
 def df_info(df):
