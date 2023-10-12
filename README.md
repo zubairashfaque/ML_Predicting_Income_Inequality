@@ -72,49 +72,49 @@ Please find below a screenshot captured from the EDA (Exploratory Data Analysis)
 <img src="./notebooks/Analyzing_Synthetic_Data/Fearure_type.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/Fearure_type_2.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/Fearure_type_2.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/TargetValue_1.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/TargetValue_1.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/TargetValue_2.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/TargetValue_2.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/CAT_1.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/CAT_1.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/CAT_2.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/CAT_2.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/CAT_3.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/CAT_3.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/CAT_4.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/CAT_4.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/CAT_5.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/CAT_5.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/CAT_6.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/CAT_6.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/CAT_7.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/CAT_7.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/CAT_8.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/CAT_8.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/CAT_9.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/CAT_9.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/CAT_10.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/CAT_10.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/CAT_11.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/CAT_11.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/HEATMAP.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/HEATMAP.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 
@@ -389,7 +389,7 @@ make setup
 ### Understanding Waterfall Plots with SHAP Values
 
 <p align="center"> 
-<img src="./notebooks/\Analyzing_Synthetic_Data/Waterfall.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/\Analyzing_Synthetic_Data/Waterfall.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 A waterfall plot is a valuable visualization tool used in conjunction with SHAP (SHapley Additive exPlanations) values to gain insights into the contribution of each feature to a model's prediction. This visualization helps users understand how each feature affects the output of a machine learning model for a specific observation.
@@ -410,7 +410,7 @@ Waterfall plots provide a powerful means of understanding the factors driving a 
 
 ### Visualizing Feature Importance with SHAP Bar Plot
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/Bar_Plot.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/Bar_Plot.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 The `shap.plots.bar(shap_values)` function generates a bar plot that visualizes the importance of features in your machine learning model. This plot is a valuable tool for understanding which features have the most substantial impact on your model's predictions.
@@ -428,7 +428,7 @@ By analyzing a SHAP bar plot, you can gain insights into the relative importance
 
 ### Visualizing SHAP Values with Beeswarm Plots
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/Beeswarm.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/Beeswarm.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 The example image above illustrates a SHAP beeswarm plot, showcasing the distribution and impact of SHAP values for multiple features.
@@ -449,7 +449,7 @@ By analyzing a SHAP beeswarm plot, you can gain a deeper understanding of the di
 
 ### Summarizing Feature Importance with SHAP Summary Bar Plot
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/Feature_Importance_Bar.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/Feature_Importance_Bar.png" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 The example image above illustrates a SHAP summary bar plot, summarizing the feature importance of a machine learning model, with important features ranked at the top and their impact indicated by bar heights.
@@ -473,7 +473,7 @@ By examining a SHAP summary bar plot, you can quickly identify the most importan
 We have developed an interactive web application for predicting income inequality. This app empowers users to work with the income inequality dataset, explore its contents, conduct exploratory data analysis (EDA) on both numerical and categorical variables with respect to the target value, identify missing values, gain insights into the dataset's story, and make predictions. 
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_1.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_1.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 ### Dataset Explore
@@ -482,45 +482,45 @@ In this section of the app, you can easily load the income inequality dataset an
 To access and use the [Income Inequality Prediction App](https://rtadeployment-za.streamlit.app/), please visit [here](https://rtadeployment-za.streamlit.app/).
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_2.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_2.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 ### EDA (Exploratory Data Analysis)
 The EDA feature enables you to delve deeper into the dataset. You can perform exploratory data analysis on both numerical and categorical variables, gaining valuable insights into how these variables relate to the target value. This section also helps you identify missing values, providing a comprehensive view of the data's quality.
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_3.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_3.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_4.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_4.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_5.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_5.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 ### Insights
 The Insights page is designed to provide a richer understanding of the dataset and its underlying story. It uncovers patterns, trends, and relationships within the data, offering a more nuanced perspective on income inequality.
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_6.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_6.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_7.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_7.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_8.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_8.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_9.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_9.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_10.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_10.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 
@@ -530,13 +530,13 @@ The Prediction section is where the app truly shines. Users can input specific p
 To access and utilize the Income Inequality Prediction App, please visit [here](https://rtadeployment-za.streamlit.app/).
 
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_11.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_11.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_12.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_12.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/app_13.jpg" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/app_13.jpg" alt="InfiniteGraph Logo" width="820" align=”center”>
 </p>
 
 This user-friendly application empowers users to explore, analyze, gain insights, and make predictions regarding income inequality, leveraging the full potential of the dataset.
