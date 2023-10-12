@@ -69,7 +69,7 @@ As we all know that the objective of Exploratory Data Analysis (EDA) is to gain 
 
 Please find below a screenshot captured from the EDA (Exploratory Data Analysis) Jupyter notebook.
 <p align="center"> 
-<img src="./notebooks/Analyzing_Synthetic_Data/Fearure_type.png" alt="InfiniteGraph Logo" width="520" align=”center”>
+<img src="./notebooks/Analyzing_Synthetic_Data/Fearure_type.png" alt="InfiniteGraph Logo" width="720" align=”center”>
 </p>
 <p align="center"> 
 <img src="./notebooks/Analyzing_Synthetic_Data/Fearure_type_2.png" alt="InfiniteGraph Logo" width="520" align=”center”>
