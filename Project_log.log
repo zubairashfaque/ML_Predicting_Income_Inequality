@@ -1,0 +1,330 @@
+2023-10-04 20:48:35,740 - INFO - -----------------------------------------Data Oversampler Started-----------------------------------------
+2023-10-04 20:48:41,452 - INFO - Generates synthetic samples using technique random data for fold 0.
+2023-10-04 20:48:49,261 - INFO - Generates synthetic samples using technique smote data for fold 0.
+2023-10-04 20:49:01,749 - INFO - Generates synthetic samples using technique adasyn data for fold 0.
+2023-10-04 20:49:14,823 - INFO - Generates synthetic samples using technique border1 data for fold 0.
+2023-10-04 20:49:27,943 - INFO - Generates synthetic samples using technique border2 data for fold 0.
+2023-10-04 20:49:27,943 - INFO - Fold 0 oversampling completed successfully.
+2023-10-04 20:49:27,962 - INFO - -----------------------------------------Data Oversampler Started-----------------------------------------
+2023-10-04 20:49:33,837 - INFO - Generates synthetic samples using technique random data for fold 1.
+2023-10-04 20:49:41,443 - INFO - Generates synthetic samples using technique smote data for fold 1.
+2023-10-04 20:49:53,827 - INFO - Generates synthetic samples using technique adasyn data for fold 1.
+2023-10-04 20:50:06,880 - INFO - Generates synthetic samples using technique border1 data for fold 1.
+2023-10-04 20:50:20,185 - INFO - Generates synthetic samples using technique border2 data for fold 1.
+2023-10-04 20:50:20,185 - INFO - Fold 1 oversampling completed successfully.
+2023-10-04 20:50:20,204 - INFO - -----------------------------------------Data Oversampler Started-----------------------------------------
+2023-10-04 20:50:25,923 - INFO - Generates synthetic samples using technique random data for fold 2.
+2023-10-04 20:50:33,390 - INFO - Generates synthetic samples using technique smote data for fold 2.
+2023-10-04 20:50:45,766 - INFO - Generates synthetic samples using technique adasyn data for fold 2.
+2023-10-04 20:50:58,816 - INFO - Generates synthetic samples using technique border1 data for fold 2.
+2023-10-04 20:51:12,124 - INFO - Generates synthetic samples using technique border2 data for fold 2.
+2023-10-04 20:51:12,124 - INFO - Fold 2 oversampling completed successfully.
+2023-10-04 20:51:12,141 - INFO - -----------------------------------------Data Oversampler Started-----------------------------------------
+2023-10-04 20:51:17,869 - INFO - Generates synthetic samples using technique random data for fold 3.
+2023-10-04 20:51:25,762 - INFO - Generates synthetic samples using technique smote data for fold 3.
+2023-10-04 20:51:38,155 - INFO - Generates synthetic samples using technique adasyn data for fold 3.
+2023-10-04 20:51:51,896 - INFO - Generates synthetic samples using technique border1 data for fold 3.
+2023-10-04 20:52:05,384 - INFO - Generates synthetic samples using technique border2 data for fold 3.
+2023-10-04 20:52:05,385 - INFO - Fold 3 oversampling completed successfully.
+2023-10-04 20:52:05,403 - INFO - -----------------------------------------Data Oversampler Started-----------------------------------------
+2023-10-04 20:52:12,094 - INFO - Generates synthetic samples using technique random data for fold 4.
+2023-10-04 20:52:19,681 - INFO - Generates synthetic samples using technique smote data for fold 4.
+2023-10-04 20:52:32,360 - INFO - Generates synthetic samples using technique adasyn data for fold 4.
+2023-10-04 20:52:45,501 - INFO - Generates synthetic samples using technique border1 data for fold 4.
+2023-10-04 20:52:58,601 - INFO - Generates synthetic samples using technique border2 data for fold 4.
+2023-10-04 20:52:58,601 - INFO - Fold 4 oversampling completed successfully.
+2023-10-04 20:52:58,626 - INFO - -----------------------------------------Oversampling process completed-----------------------------------------
+2023-10-04 23:20:58,242 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-05 06:51:41,910 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-05 07:13:50,419 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-05 07:14:08,998 - ERROR - Error for oversampler_smote_0_train.csv and Decision Tree: name 'X_train_t' is not defined
+2023-10-05 07:16:56,003 - ERROR - Error for oversampler_smote_0_train.csv and Random Forest: name 'X_train_t' is not defined
+2023-10-05 07:22:15,128 - ERROR - Error for oversampler_smote_0_train.csv and GBM: name 'X_train_t' is not defined
+2023-10-05 07:23:41,935 - ERROR - Error for oversampler_smote_0_train.csv and AdaBoost: name 'X_train_t' is not defined
+2023-10-05 07:28:54,735 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-05 07:29:18,629 - ERROR - Error for oversampler_smote_0_train.csv and Decision Tree: name 'X_train_t' is not defined
+2023-10-05 07:32:10,829 - ERROR - Error for oversampler_smote_0_train.csv and Random Forest: name 'X_train_t' is not defined
+2023-10-05 07:37:45,529 - ERROR - Error for oversampler_smote_0_train.csv and GBM: name 'X_train_t' is not defined
+2023-10-05 07:38:52,199 - ERROR - Error for oversampler_smote_0_train.csv and AdaBoost: name 'X_train_t' is not defined
+2023-10-05 07:44:23,927 - ERROR - Error for oversampler_smote_0_train.csv and GTB: name 'X_train_t' is not defined
+2023-10-05 07:45:18,872 - ERROR - Error for oversampler_smote_0_train.csv and Extra Trees: name 'X_train_t' is not defined
+2023-10-05 07:45:21,923 - ERROR - Error for oversampler_smote_0_train.csv and XGBoost: name 'X_train_t' is not defined
+2023-10-05 07:45:24,440 - ERROR - Error for oversampler_smote_0_train.csv and LightGBM: name 'X_train_t' is not defined
+2023-10-05 07:46:12,331 - ERROR - Error for oversampler_smote_0_train.csv and CatBoost: name 'X_train_t' is not defined
+2023-10-05 07:46:18,131 - INFO - Processing train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv
+2023-10-05 07:46:39,766 - ERROR - Error for oversampler_adasyn_0_train.csv and Decision Tree: name 'X_train_t' is not defined
+2023-10-05 07:49:35,855 - ERROR - Error for oversampler_adasyn_0_train.csv and Random Forest: name 'X_train_t' is not defined
+2023-10-05 07:55:06,260 - ERROR - Error for oversampler_adasyn_0_train.csv and GBM: name 'X_train_t' is not defined
+2023-10-05 07:56:08,059 - ERROR - Error for oversampler_adasyn_0_train.csv and AdaBoost: name 'X_train_t' is not defined
+2023-10-05 08:01:44,992 - ERROR - Error for oversampler_adasyn_0_train.csv and GTB: name 'X_train_t' is not defined
+2023-10-05 08:02:38,383 - ERROR - Error for oversampler_adasyn_0_train.csv and Extra Trees: name 'X_train_t' is not defined
+2023-10-05 08:02:40,541 - ERROR - Error for oversampler_adasyn_0_train.csv and XGBoost: name 'X_train_t' is not defined
+2023-10-05 08:02:42,670 - ERROR - Error for oversampler_adasyn_0_train.csv and LightGBM: name 'X_train_t' is not defined
+2023-10-05 08:03:30,508 - ERROR - Error for oversampler_adasyn_0_train.csv and CatBoost: name 'X_train_t' is not defined
+2023-10-05 08:03:35,972 - INFO - Processing train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv
+2023-10-05 08:03:52,149 - ERROR - Error for oversampler_border2_0_train.csv and Decision Tree: name 'X_train_t' is not defined
+2023-10-05 08:07:01,436 - ERROR - Error for oversampler_border2_0_train.csv and Random Forest: name 'X_train_t' is not defined
+2023-10-05 08:13:05,452 - ERROR - Error for oversampler_border2_0_train.csv and GBM: name 'X_train_t' is not defined
+2023-10-05 08:14:13,187 - ERROR - Error for oversampler_border2_0_train.csv and AdaBoost: name 'X_train_t' is not defined
+2023-10-05 08:20:10,952 - ERROR - Error for oversampler_border2_0_train.csv and GTB: name 'X_train_t' is not defined
+2023-10-05 08:21:11,588 - ERROR - Error for oversampler_border2_0_train.csv and Extra Trees: name 'X_train_t' is not defined
+2023-10-05 08:21:14,362 - ERROR - Error for oversampler_border2_0_train.csv and XGBoost: name 'X_train_t' is not defined
+2023-10-05 08:21:17,158 - ERROR - Error for oversampler_border2_0_train.csv and LightGBM: name 'X_train_t' is not defined
+2023-10-05 08:22:05,972 - ERROR - Error for oversampler_border2_0_train.csv and CatBoost: name 'X_train_t' is not defined
+2023-10-05 08:22:12,442 - INFO - Processing train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv
+2023-10-05 08:22:33,350 - ERROR - Error for oversampler_border1_0_train.csv and Decision Tree: name 'X_train_t' is not defined
+2023-10-05 08:25:44,229 - ERROR - Error for oversampler_border1_0_train.csv and Random Forest: name 'X_train_t' is not defined
+2023-10-05 08:31:30,325 - ERROR - Error for oversampler_border1_0_train.csv and GBM: name 'X_train_t' is not defined
+2023-10-05 08:32:34,456 - ERROR - Error for oversampler_border1_0_train.csv and AdaBoost: name 'X_train_t' is not defined
+2023-10-05 08:38:14,521 - ERROR - Error for oversampler_border1_0_train.csv and GTB: name 'X_train_t' is not defined
+2023-10-05 08:39:09,928 - ERROR - Error for oversampler_border1_0_train.csv and Extra Trees: name 'X_train_t' is not defined
+2023-10-05 08:39:12,426 - ERROR - Error for oversampler_border1_0_train.csv and XGBoost: name 'X_train_t' is not defined
+2023-10-05 08:39:14,714 - ERROR - Error for oversampler_border1_0_train.csv and LightGBM: name 'X_train_t' is not defined
+2023-10-05 08:39:59,190 - ERROR - Error for oversampler_border1_0_train.csv and CatBoost: name 'X_train_t' is not defined
+2023-10-05 08:40:05,872 - INFO - Script execution completed.
+2023-10-10 09:56:33,628 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-10 09:56:52,166 - ERROR - Error for oversampler_smote_0_train.csv and Decision Tree: name 'X_train_t' is not defined
+2023-10-10 09:59:42,598 - ERROR - Error for oversampler_smote_0_train.csv and Random Forest: name 'X_train_t' is not defined
+2023-10-10 10:05:26,088 - ERROR - Error for oversampler_smote_0_train.csv and GBM: name 'X_train_t' is not defined
+2023-10-10 10:06:28,919 - ERROR - Error for oversampler_smote_0_train.csv and AdaBoost: name 'X_train_t' is not defined
+2023-10-10 10:11:41,875 - ERROR - Error for oversampler_smote_0_train.csv and GTB: name 'X_train_t' is not defined
+2023-10-10 10:12:32,656 - ERROR - Error for oversampler_smote_0_train.csv and Extra Trees: name 'X_train_t' is not defined
+2023-10-10 10:12:35,356 - ERROR - Error for oversampler_smote_0_train.csv and XGBoost: name 'X_train_t' is not defined
+2023-10-10 10:12:37,875 - ERROR - Error for oversampler_smote_0_train.csv and LightGBM: name 'X_train_t' is not defined
+2023-10-10 10:13:18,915 - ERROR - Error for oversampler_smote_0_train.csv and CatBoost: name 'X_train_t' is not defined
+2023-10-10 10:13:23,937 - INFO - Processing train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv
+2023-10-10 10:13:43,798 - ERROR - Error for oversampler_adasyn_0_train.csv and Decision Tree: name 'X_train_t' is not defined
+2023-10-10 10:16:23,078 - ERROR - Error for oversampler_adasyn_0_train.csv and Random Forest: name 'X_train_t' is not defined
+2023-10-10 10:21:41,688 - ERROR - Error for oversampler_adasyn_0_train.csv and GBM: name 'X_train_t' is not defined
+2023-10-10 10:22:46,787 - ERROR - Error for oversampler_adasyn_0_train.csv and AdaBoost: name 'X_train_t' is not defined
+2023-10-10 10:28:20,279 - ERROR - Error for oversampler_adasyn_0_train.csv and GTB: name 'X_train_t' is not defined
+2023-10-10 10:29:08,558 - ERROR - Error for oversampler_adasyn_0_train.csv and Extra Trees: name 'X_train_t' is not defined
+2023-10-10 10:29:10,831 - ERROR - Error for oversampler_adasyn_0_train.csv and XGBoost: name 'X_train_t' is not defined
+2023-10-10 10:29:12,844 - ERROR - Error for oversampler_adasyn_0_train.csv and LightGBM: name 'X_train_t' is not defined
+2023-10-10 10:29:54,014 - ERROR - Error for oversampler_adasyn_0_train.csv and CatBoost: name 'X_train_t' is not defined
+2023-10-10 10:29:59,071 - INFO - Processing train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv
+2023-10-10 10:30:14,463 - ERROR - Error for oversampler_border2_0_train.csv and Decision Tree: name 'X_train_t' is not defined
+2023-10-10 10:33:19,403 - ERROR - Error for oversampler_border2_0_train.csv and Random Forest: name 'X_train_t' is not defined
+2023-10-10 10:39:26,184 - ERROR - Error for oversampler_border2_0_train.csv and GBM: name 'X_train_t' is not defined
+2023-10-10 10:40:32,655 - ERROR - Error for oversampler_border2_0_train.csv and AdaBoost: name 'X_train_t' is not defined
+2023-10-10 10:46:36,659 - ERROR - Error for oversampler_border2_0_train.csv and GTB: name 'X_train_t' is not defined
+2023-10-10 10:47:40,337 - ERROR - Error for oversampler_border2_0_train.csv and Extra Trees: name 'X_train_t' is not defined
+2023-10-10 10:47:43,067 - ERROR - Error for oversampler_border2_0_train.csv and XGBoost: name 'X_train_t' is not defined
+2023-10-10 10:47:45,543 - ERROR - Error for oversampler_border2_0_train.csv and LightGBM: name 'X_train_t' is not defined
+2023-10-10 10:48:37,161 - ERROR - Error for oversampler_border2_0_train.csv and CatBoost: name 'X_train_t' is not defined
+2023-10-10 10:48:42,492 - INFO - Processing train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv
+2023-10-10 10:49:01,839 - ERROR - Error for oversampler_border1_0_train.csv and Decision Tree: name 'X_train_t' is not defined
+2023-10-10 10:51:53,727 - ERROR - Error for oversampler_border1_0_train.csv and Random Forest: name 'X_train_t' is not defined
+2023-10-10 10:56:59,671 - ERROR - Error for oversampler_border1_0_train.csv and GBM: name 'X_train_t' is not defined
+2023-10-10 10:57:58,853 - ERROR - Error for oversampler_border1_0_train.csv and AdaBoost: name 'X_train_t' is not defined
+2023-10-10 11:03:09,472 - ERROR - Error for oversampler_border1_0_train.csv and GTB: name 'X_train_t' is not defined
+2023-10-10 11:03:58,419 - ERROR - Error for oversampler_border1_0_train.csv and Extra Trees: name 'X_train_t' is not defined
+2023-10-10 11:04:00,459 - ERROR - Error for oversampler_border1_0_train.csv and XGBoost: name 'X_train_t' is not defined
+2023-10-10 11:04:02,405 - ERROR - Error for oversampler_border1_0_train.csv and LightGBM: name 'X_train_t' is not defined
+2023-10-10 11:04:43,788 - ERROR - Error for oversampler_border1_0_train.csv and CatBoost: name 'X_train_t' is not defined
+2023-10-10 11:04:48,478 - INFO - Script execution completed.
+2023-10-10 13:13:34,703 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-10 13:32:28,449 - INFO - -----------------------------------------Data preprocessing Started-----------------------------------------
+2023-10-10 13:32:29,840 - INFO - -----------------------------------------Data Loaded-----------------------------------------
+2023-10-10 13:32:30,104 - INFO - -----------------------------------------NAN Columns Dropped-----------------------------------------
+2023-10-10 13:32:30,337 - INFO - -----------------------------------------Split the data into folds using StratifiedKFold done-----------------------------------------
+2023-10-10 13:32:32,615 - INFO - -----------------------------------------Ordinal Encoding Done-----------------------------------------
+2023-10-10 13:33:28,433 - INFO - -----------------------------------------KNN imputation Done-----------------------------------------
+2023-10-10 13:33:32,020 - INFO - -----------------------------------------Data preprocessing completed successfully-----------------------------------------
+2023-10-10 13:34:51,670 - INFO - -----------------------------------------Data Oversampler Started-----------------------------------------
+2023-10-10 13:34:58,011 - INFO - Generates synthetic samples using technique random data for fold 0.
+2023-10-10 13:35:07,505 - INFO - Generates synthetic samples using technique smote data for fold 0.
+2023-10-10 13:35:18,112 - INFO - Generates synthetic samples using technique adasyn data for fold 0.
+2023-10-10 13:35:28,536 - INFO - Generates synthetic samples using technique border1 data for fold 0.
+2023-10-10 13:35:39,664 - INFO - Generates synthetic samples using technique border2 data for fold 0.
+2023-10-10 13:35:39,826 - INFO - Fold 0 oversampling completed successfully.
+2023-10-10 13:35:39,845 - INFO - -----------------------------------------Data Oversampler Started-----------------------------------------
+2023-10-10 13:35:45,718 - INFO - Generates synthetic samples using technique random data for fold 1.
+2023-10-10 13:35:52,586 - INFO - Generates synthetic samples using technique smote data for fold 1.
+2023-10-10 13:36:02,062 - INFO - Generates synthetic samples using technique adasyn data for fold 1.
+2023-10-10 13:36:11,568 - INFO - Generates synthetic samples using technique border1 data for fold 1.
+2023-10-10 13:36:21,248 - INFO - Generates synthetic samples using technique border2 data for fold 1.
+2023-10-10 13:36:21,248 - INFO - Fold 1 oversampling completed successfully.
+2023-10-10 13:36:21,266 - INFO - -----------------------------------------Data Oversampler Started-----------------------------------------
+2023-10-10 13:36:27,175 - INFO - Generates synthetic samples using technique random data for fold 2.
+2023-10-10 13:36:35,583 - INFO - Generates synthetic samples using technique smote data for fold 2.
+2023-10-10 13:36:45,198 - INFO - Generates synthetic samples using technique adasyn data for fold 2.
+2023-10-10 13:36:55,642 - INFO - Generates synthetic samples using technique border1 data for fold 2.
+2023-10-10 13:37:05,850 - INFO - Generates synthetic samples using technique border2 data for fold 2.
+2023-10-10 13:37:05,850 - INFO - Fold 2 oversampling completed successfully.
+2023-10-10 13:37:05,868 - INFO - -----------------------------------------Data Oversampler Started-----------------------------------------
+2023-10-10 13:37:11,322 - INFO - Generates synthetic samples using technique random data for fold 3.
+2023-10-10 13:37:19,300 - INFO - Generates synthetic samples using technique smote data for fold 3.
+2023-10-10 13:37:29,371 - INFO - Generates synthetic samples using technique adasyn data for fold 3.
+2023-10-10 13:37:38,728 - INFO - Generates synthetic samples using technique border1 data for fold 3.
+2023-10-10 13:37:48,590 - INFO - Generates synthetic samples using technique border2 data for fold 3.
+2023-10-10 13:37:48,590 - INFO - Fold 3 oversampling completed successfully.
+2023-10-10 13:37:48,607 - INFO - -----------------------------------------Data Oversampler Started-----------------------------------------
+2023-10-10 13:37:55,626 - INFO - Generates synthetic samples using technique random data for fold 4.
+2023-10-10 13:38:02,681 - INFO - Generates synthetic samples using technique smote data for fold 4.
+2023-10-10 13:38:12,105 - INFO - Generates synthetic samples using technique adasyn data for fold 4.
+2023-10-10 13:38:21,604 - INFO - Generates synthetic samples using technique border1 data for fold 4.
+2023-10-10 13:38:31,362 - INFO - Generates synthetic samples using technique border2 data for fold 4.
+2023-10-10 13:38:31,362 - INFO - Fold 4 oversampling completed successfully.
+2023-10-10 13:38:31,385 - INFO - -----------------------------------------Oversampling process completed.-----------------------------------------
+2023-10-10 13:38:48,072 - INFO - Processing fold 0, sampler type: oversampling, sampler name: oversampler_random
+2023-10-10 13:38:52,397 - INFO - Processed fold 0, sampler type: oversampling, sampler name: oversampler_random, F1_Score: 0.9318882635781803
+2023-10-10 13:38:52,397 - INFO - Processing fold 0, sampler type: oversampling, sampler name: oversampler_smote
+2023-10-10 13:39:04,185 - INFO - Processed fold 0, sampler type: oversampling, sampler name: oversampler_smote, F1_Score: 0.9275873374940719
+2023-10-10 13:39:04,185 - INFO - Processing fold 0, sampler type: oversampling, sampler name: oversampler_adasyn
+2023-10-10 13:39:14,960 - INFO - Processed fold 0, sampler type: oversampling, sampler name: oversampler_adasyn, F1_Score: 0.9265250746139558
+2023-10-10 13:39:14,961 - INFO - Processing fold 0, sampler type: oversampling, sampler name: oversampler_border1
+2023-10-10 13:39:26,416 - INFO - Processed fold 0, sampler type: oversampling, sampler name: oversampler_border1, F1_Score: 0.9261386239210064
+2023-10-10 13:39:26,416 - INFO - Processing fold 0, sampler type: oversampling, sampler name: oversampler_border2
+2023-10-10 13:39:36,964 - INFO - Processed fold 0, sampler type: oversampling, sampler name: oversampler_border2, F1_Score: 0.9271031540411167
+2023-10-10 13:39:44,596 - INFO - Print the list of top 5 File_names
+2023-10-10 13:39:44,596 - INFO - ['oversampler_random_0_test.csv', 'oversampler_smote_0_test.csv', 'oversampler_border2_0_test.csv', 'oversampler_adasyn_0_test.csv', 'oversampler_border1_0_test.csv']
+2023-10-10 13:39:44,596 - INFO - top_sample_list.yaml has been created.
+2023-10-10 13:40:27,303 - INFO - Processing train file: oversampler_random_0_train.csv, test file: oversampler_random_0_test.csv
+2023-10-10 13:40:31,519 - INFO - Processed train file: oversampler_random_0_train.csv, test file: oversampler_random_0_test.csv, model: Decision Tree, F1 Score: 0.9323284514442756
+2023-10-10 13:41:19,848 - INFO - Processed train file: oversampler_random_0_train.csv, test file: oversampler_random_0_test.csv, model: Random Forest, F1 Score: 0.9500430756932491
+2023-10-10 13:42:21,654 - INFO - Processed train file: oversampler_random_0_train.csv, test file: oversampler_random_0_test.csv, model: GBM, F1 Score: 0.8867614745599995
+2023-10-10 13:42:37,132 - INFO - Processed train file: oversampler_random_0_train.csv, test file: oversampler_random_0_test.csv, model: AdaBoost, F1 Score: 0.8814878086138176
+2023-10-10 13:43:39,136 - INFO - Processed train file: oversampler_random_0_train.csv, test file: oversampler_random_0_test.csv, model: GTB, F1 Score: 0.8867614745599995
+2023-10-10 13:44:21,136 - INFO - Processed train file: oversampler_random_0_train.csv, test file: oversampler_random_0_test.csv, model: Extra Trees, F1 Score: 0.9440839454706027
+2023-10-10 13:44:22,715 - INFO - Processed train file: oversampler_random_0_train.csv, test file: oversampler_random_0_test.csv, model: XGBoost, F1 Score: 0.910504470861936
+2023-10-10 13:44:24,373 - INFO - Processed train file: oversampler_random_0_train.csv, test file: oversampler_random_0_test.csv, model: LightGBM, F1 Score: 0.9007816663988802
+2023-10-10 13:44:59,085 - INFO - Processed train file: oversampler_random_0_train.csv, test file: oversampler_random_0_test.csv, model: CatBoost, F1 Score: 0.9191753985686079
+2023-10-10 13:45:02,971 - INFO - Processed train file: oversampler_random_0_train.csv, test file: oversampler_random_0_test.csv, model: HistGradientBoosting, F1 Score: 0.9004845037551731
+2023-10-10 13:45:02,971 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-10 13:45:14,358 - INFO - Processed train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv, model: Decision Tree, F1 Score: 0.9281829409593028
+2023-10-10 13:47:23,910 - INFO - Processed train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv, model: Random Forest, F1 Score: 0.9485376503901658
+2023-10-10 13:51:13,389 - INFO - Processed train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv, model: GBM, F1 Score: 0.9419986407819586
+2023-10-10 13:51:57,018 - INFO - Processed train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv, model: AdaBoost, F1 Score: 0.9327122123698985
+2023-10-10 13:55:42,638 - INFO - Processed train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv, model: GTB, F1 Score: 0.9419986407819586
+2023-10-10 13:56:30,429 - INFO - Processed train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv, model: Extra Trees, F1 Score: 0.9451259876041387
+2023-10-10 13:56:32,226 - INFO - Processed train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv, model: XGBoost, F1 Score: 0.9538764083402775
+2023-10-10 13:56:34,242 - INFO - Processed train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv, model: LightGBM, F1 Score: 0.950734567384836
+2023-10-10 13:57:10,536 - INFO - Processed train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv, model: CatBoost, F1 Score: 0.9538707201004116
+2023-10-10 13:57:14,578 - INFO - Processed train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv, model: HistGradientBoosting, F1 Score: 0.9497402420815193
+2023-10-10 13:57:14,578 - INFO - Processing train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv
+2023-10-10 13:57:25,443 - INFO - Processed train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv, model: Decision Tree, F1 Score: 0.9266735014459033
+2023-10-10 13:59:42,320 - INFO - Processed train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv, model: Random Forest, F1 Score: 0.9478655251683001
+2023-10-10 14:03:58,626 - INFO - Processed train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv, model: GBM, F1 Score: 0.941867315002902
+2023-10-10 14:04:47,748 - INFO - Processed train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv, model: AdaBoost, F1 Score: 0.9321266930099422
+2023-10-10 14:09:08,895 - INFO - Processed train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv, model: GTB, F1 Score: 0.941867315002902
+2023-10-10 14:09:57,747 - INFO - Processed train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv, model: Extra Trees, F1 Score: 0.9439122055299362
+2023-10-10 14:09:59,719 - INFO - Processed train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv, model: XGBoost, F1 Score: 0.9535600412541253
+2023-10-10 14:10:01,827 - INFO - Processed train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv, model: LightGBM, F1 Score: 0.9513947126445063
+2023-10-10 14:10:39,574 - INFO - Processed train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv, model: CatBoost, F1 Score: 0.9539308475696167
+2023-10-10 14:10:43,738 - INFO - Processed train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv, model: HistGradientBoosting, F1 Score: 0.949933406545586
+2023-10-10 14:10:43,738 - INFO - Processing train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv
+2023-10-10 14:10:54,734 - INFO - Processed train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv, model: Decision Tree, F1 Score: 0.9267899079455963
+2023-10-10 14:13:07,653 - INFO - Processed train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv, model: Random Forest, F1 Score: 0.9473376165888202
+2023-10-10 14:16:52,265 - INFO - Processed train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv, model: GBM, F1 Score: 0.9395346142529828
+2023-10-10 14:17:35,541 - INFO - Processed train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv, model: AdaBoost, F1 Score: 0.9287818874949941
+2023-10-10 14:21:22,134 - INFO - Processed train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv, model: GTB, F1 Score: 0.9395346142529828
+2023-10-10 14:22:08,590 - INFO - Processed train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv, model: Extra Trees, F1 Score: 0.9441302357112378
+2023-10-10 14:22:10,412 - INFO - Processed train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv, model: XGBoost, F1 Score: 0.9533812261444339
+2023-10-10 14:22:12,141 - INFO - Processed train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv, model: LightGBM, F1 Score: 0.9511062735696949
+2023-10-10 14:22:50,100 - INFO - Processed train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv, model: CatBoost, F1 Score: 0.9531925929290593
+2023-10-10 14:22:54,595 - INFO - Processed train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv, model: HistGradientBoosting, F1 Score: 0.9501293252112563
+2023-10-10 14:22:54,595 - INFO - Processing train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv
+2023-10-10 14:23:06,827 - INFO - Processed train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv, model: Decision Tree, F1 Score: 0.9262583309822557
+2023-10-10 14:25:55,549 - INFO - Processed train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv, model: Random Forest, F1 Score: 0.9472536195588305
+2023-10-10 14:29:41,486 - INFO - Processed train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv, model: GBM, F1 Score: 0.9407362686271312
+2023-10-10 14:30:25,538 - INFO - Processed train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv, model: AdaBoost, F1 Score: 0.9327166516554183
+2023-10-10 14:34:06,723 - INFO - Processed train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv, model: GTB, F1 Score: 0.9407362686271312
+2023-10-10 14:34:52,705 - INFO - Processed train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv, model: Extra Trees, F1 Score: 0.9440424859325018
+2023-10-10 14:34:54,452 - INFO - Processed train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv, model: XGBoost, F1 Score: 0.9528138617382902
+2023-10-10 14:34:56,448 - INFO - Processed train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv, model: LightGBM, F1 Score: 0.9507883329206358
+2023-10-10 14:35:32,864 - INFO - Processed train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv, model: CatBoost, F1 Score: 0.9538009151306678
+2023-10-10 14:35:36,815 - INFO - Processed train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv, model: HistGradientBoosting, F1 Score: 0.9499797132325976
+2023-10-10 14:35:38,245 - INFO - Saved F1 score graph for train file: oversampler_random_0_train.csv to data/final\oversampler_random_0_f1_scores.html
+2023-10-10 14:35:38,473 - INFO - Saved F1 score graph for train file: oversampler_smote_0_train.csv to data/final\oversampler_smote_0_f1_scores.html
+2023-10-10 14:35:38,722 - INFO - Saved F1 score graph for train file: oversampler_border2_0_train.csv to data/final\oversampler_border2_0_f1_scores.html
+2023-10-10 14:35:38,950 - INFO - Saved F1 score graph for train file: oversampler_adasyn_0_train.csv to data/final\oversampler_adasyn_0_f1_scores.html
+2023-10-10 14:35:39,214 - INFO - Saved F1 score graph for train file: oversampler_border1_0_train.csv to data/final\oversampler_border1_0_f1_scores.html
+2023-10-10 14:35:39,541 - INFO - Saved F1 scores DataFrame as 'f1_scores.csv'
+2023-10-10 14:35:39,542 - INFO - Top Four Mean Files Names:
+2023-10-10 14:35:39,542 - INFO - ['oversampler_smote_0_train.csv', 'oversampler_border2_0_train.csv', 'oversampler_border1_0_train.csv', 'oversampler_adasyn_0_train.csv']
+2023-10-10 14:35:39,543 - INFO - Saved top four mean files' names in 'data/final/top_f1_score.yaml'
+2023-10-10 14:35:39,543 - INFO - All graphs, DataFrame, and YAML file saved successfully.
+2023-10-10 14:38:30,688 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-10 14:41:33,971 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-10 14:41:35,226 - ERROR - Error: This DropConstantFeatures instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2023-10-10 14:42:19,142 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-10 16:12:49,516 - INFO - Processing train file: oversampler_border2_0_train.csv, test file: oversampler_border2_0_test.csv
+2023-10-10 17:44:05,568 - INFO - Processing train file: oversampler_border1_0_train.csv, test file: oversampler_border1_0_test.csv
+2023-10-10 19:15:03,843 - INFO - Processing train file: oversampler_adasyn_0_train.csv, test file: oversampler_adasyn_0_test.csv
+2023-10-10 20:45:53,595 - INFO - Script execution completed.
+2023-10-11 07:02:28,473 - INFO - Loading data from YAML file.
+2023-10-11 07:02:28,519 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-11 07:33:52,703 - INFO - -----------------------------------------Data preprocessing Started-----------------------------------------
+2023-10-11 07:33:53,712 - INFO - -----------------------------------------Data Loaded-----------------------------------------
+2023-10-11 07:33:53,978 - INFO - -----------------------------------------NAN Columns Dropped-----------------------------------------
+2023-10-11 07:33:54,168 - INFO - -----------------------------------------Split the data into folds using StratifiedKFold done-----------------------------------------
+2023-10-11 07:33:55,916 - INFO - -----------------------------------------Ordinal Encoding Done-----------------------------------------
+2023-10-11 07:34:41,541 - INFO - -----------------------------------------KNN imputation Done-----------------------------------------
+2023-10-11 07:34:44,775 - INFO - -----------------------------------------Data preprocessing completed successfully-----------------------------------------
+2023-10-11 08:27:45,469 - INFO - Loading data from YAML file.
+2023-10-11 08:27:45,541 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-11 08:29:47,917 - INFO - Loading data from YAML file.
+2023-10-11 08:29:47,918 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-11 08:34:55,065 - INFO - Loading data from YAML file.
+2023-10-11 08:34:55,065 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-11 08:36:41,814 - INFO - Loading data from YAML file.
+2023-10-11 08:36:41,815 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-11 09:26:33,885 - INFO - Loading data from YAML file.
+2023-10-11 09:26:33,886 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-11 09:32:43,189 - INFO - Loading data from YAML file.
+2023-10-11 09:32:43,189 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-11 09:35:40,067 - INFO - Loading data from YAML file.
+2023-10-11 09:35:40,068 - INFO - Processing train file: oversampler_smote_0_train.csv, test file: oversampler_smote_0_test.csv
+2023-10-11 17:34:15,730 - INFO - -----------------------------------------Data preprocessing Started-----------------------------------------
+2023-10-11 17:34:16,674 - INFO - -----------------------------------------Data Loaded-----------------------------------------
+2023-10-11 17:34:17,083 - INFO - -----------------------------------------NAN Columns Dropped-----------------------------------------
+2023-10-11 17:34:17,279 - INFO - -----------------------------------------Split the data into folds using StratifiedKFold done-----------------------------------------
+2023-10-11 17:34:19,021 - INFO - -----------------------------------------Ordinal Encoding Done-----------------------------------------
+2023-10-11 17:35:08,037 - INFO - -----------------------------------------KNN imputation Done-----------------------------------------
+2023-10-11 17:35:11,510 - INFO - -----------------------------------------Data preprocessing completed successfully-----------------------------------------
+2023-10-11 17:52:37,627 - INFO - -----------------------------------------Data preprocessing Started-----------------------------------------
+2023-10-11 17:52:38,611 - INFO - -----------------------------------------Data Loaded-----------------------------------------
+2023-10-11 17:52:38,847 - INFO - -----------------------------------------NAN Columns Dropped-----------------------------------------
+2023-10-11 17:52:39,157 - INFO - -----------------------------------------Split the data into folds using StratifiedKFold done-----------------------------------------
+2023-10-11 17:52:40,435 - INFO - -----------------------------------------Ordinal Encoding Done-----------------------------------------
+2023-10-11 17:53:25,771 - INFO - -----------------------------------------KNN imputation Done-----------------------------------------
+2023-10-11 17:53:29,422 - INFO - -----------------------------------------Data preprocessing completed successfully-----------------------------------------
+2023-10-12 06:08:18,894 - INFO - -----------------------------------------Training Started-----------------------------------------
+2023-10-12 06:08:23,342 - INFO - F1 Weighted Score: 0.9500125761356305
+2023-10-12 06:08:23,600 - INFO - Selected features saved to: data/selected_features_test.csv
+2023-10-12 06:08:23,613 - INFO - Model saved using pickle to: model/LGBMClassifier_model.pkl
+2023-10-12 06:08:23,613 - INFO - -----------------------------------------Training Ended-----------------------------------------
+2023-10-12 06:08:27,709 - INFO - -----------------------------------------Oversampling Script Started-----------------------------------------
+2023-10-12 06:08:27,709 - INFO - Oversampling Started for Fold 0
+2023-10-12 06:08:37,504 - INFO - Oversampling Completed for Fold 0
+2023-10-12 06:08:37,528 - INFO - Oversampling Started for Fold 1
+2023-10-12 06:08:45,843 - INFO - Oversampling Completed for Fold 1
+2023-10-12 06:08:45,865 - INFO - Oversampling Started for Fold 2
+2023-10-12 06:08:54,011 - INFO - Oversampling Completed for Fold 2
+2023-10-12 06:08:54,031 - INFO - Oversampling Started for Fold 3
+2023-10-12 06:09:03,203 - INFO - Oversampling Completed for Fold 3
+2023-10-12 06:09:03,227 - INFO - Oversampling Started for Fold 4
+2023-10-12 06:09:11,250 - INFO - Oversampling Completed for Fold 4
+2023-10-12 06:09:11,268 - INFO - -----------------------------------------Oversampling Script Ended-----------------------------------------
+2023-10-12 06:10:30,531 - INFO - -----------------------------------------Data preprocessing Started-----------------------------------------
+2023-10-12 06:10:31,703 - INFO - -----------------------------------------Data Loaded-----------------------------------------
+2023-10-12 06:10:32,111 - INFO - -----------------------------------------NAN Columns Dropped-----------------------------------------
+2023-10-12 06:10:32,496 - INFO - -----------------------------------------Split the data into folds using StratifiedKFold done-----------------------------------------
+2023-10-12 06:10:32,990 - INFO - Step 5: Categorical columns encoded using ordinal encoding.
+2023-10-12 06:10:32,991 - INFO - -----------------------------------------Ordinal Encoding Done-----------------------------------------
+2023-10-12 06:10:33,022 - INFO - Step 4: Target variable 'Accident_severity' encoded.
+2023-10-12 06:10:33,061 - INFO - -----------------------------------------KNN imputation Done-----------------------------------------
+2023-10-12 06:10:34,300 - INFO - -----------------------------------------Data preprocessing completed successfully-----------------------------------------
+2023-10-12 06:10:35,724 - INFO - -----------------------------------------Oversampling Script Started-----------------------------------------
+2023-10-12 06:10:35,724 - INFO - Oversampling Started for Fold 0
+2023-10-12 06:10:38,611 - INFO - Oversampling Completed for Fold 0
+2023-10-12 06:10:38,618 - INFO - Oversampling Started for Fold 1
+2023-10-12 06:10:41,555 - INFO - Oversampling Completed for Fold 1
+2023-10-12 06:10:41,561 - INFO - Oversampling Started for Fold 2
+2023-10-12 06:10:44,551 - INFO - Oversampling Completed for Fold 2
+2023-10-12 06:10:44,557 - INFO - Oversampling Started for Fold 3
+2023-10-12 06:10:47,483 - INFO - Oversampling Completed for Fold 3
+2023-10-12 06:10:47,491 - INFO - Oversampling Started for Fold 4
+2023-10-12 06:10:50,294 - INFO - Oversampling Completed for Fold 4
+2023-10-12 06:10:50,302 - INFO - -----------------------------------------Oversampling Script Ended-----------------------------------------

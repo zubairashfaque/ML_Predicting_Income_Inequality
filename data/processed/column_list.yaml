@@ -1,0 +1,13 @@
+columns:
+- education
+- age
+- total_employed
+- occupation_code
+- industry_code
+- gender
+- gains
+- industry_code_main
+- tax_status
+- stocks_status
+- income_above_limit
+- kfold

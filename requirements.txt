@@ -1,0 +1,15 @@
+pandas
+streamlit
+plotly
+scikit-learn
+imblearn
+pyyaml
+lightgbm
+catboost
+xgboost
+feature_engine
+scikit-optimize
+shap
+ipython
+altair<5
+tabulate
