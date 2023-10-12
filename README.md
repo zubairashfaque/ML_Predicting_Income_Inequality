@@ -479,7 +479,7 @@ We have developed an interactive web application for predicting income inequalit
 ### Dataset Explore
 In this section of the app, you can easily load the income inequality dataset and explore its contents. This feature allows you to examine the dataset's structure and understand its key attributes.
 
-To access and use the [Income Inequality Prediction App](https://rtadeployment-za.streamlit.app/), please visit [here](https://rtadeployment-za.streamlit.app/).
+To access and use the [Income Inequality Prediction App](https://mlpredictingincomeinequality-za.streamlit.app/), please visit [here](https://mlpredictingincomeinequality-za.streamlit.app/).
 
 <p align="center"> 
 <img src="./notebooks/Analyzing_Synthetic_Data/app_2.jpg" alt="InfiniteGraph Logo" width="1200" align=”center”>
@@ -527,7 +527,7 @@ The Insights page is designed to provide a richer understanding of the dataset a
 ### Prediction
 The Prediction section is where the app truly shines. Users can input specific parameters, and the app provides predictions related to income inequality. Additionally, it offers explanations, including ROC-AUC curves, confusion matrices, F1 weighted scores, and accuracy metrics, providing a comprehensive view of the predictive performance. 
 
-To access and utilize the Income Inequality Prediction App, please visit [here](https://rtadeployment-za.streamlit.app/).
+To access and utilize the Income Inequality Prediction App, please visit [here](https://mlpredictingincomeinequality-za.streamlit.app/).
 
 <p align="center"> 
 <img src="./notebooks/Analyzing_Synthetic_Data/app_11.jpg" alt="InfiniteGraph Logo" width="1200" align=”center”>
